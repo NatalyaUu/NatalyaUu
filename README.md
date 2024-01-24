@@ -55,9 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NatalyaUu/NatalyaUu/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
