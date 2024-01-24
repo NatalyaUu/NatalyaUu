@@ -1,3 +1,12 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia
+===============================================================================================================================
+
+По образованию я журналист. Но в последние несколько месяцев я решила полностью сменить свою сферу деятельности и теперь активно учусь на QA Engineer.
+
+* 🌍  I'm based in Moscow
+* ✉️  You can contact me at [tsshmeleva@gmail.com](mailto:tsshmeleva@gmail.com)
+* 🧠  I'm learning Manual testing
+
 # 💫 About Me:
 По образованию я журналист. Но в последние несколько месяцев я решила полностью сменить свою сферу деятельности и теперь активно учусь на QA Engineer.
 
@@ -14,6 +23,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NatalyaUu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/NatalyaUu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/natalia-usova-b56a9229b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
