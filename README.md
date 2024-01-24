@@ -7,10 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [tsshmeleva@gmail.com](mailto:tsshmeleva@gmail.com)
 * 🧠  I'm learning Manual testing
 
-# 💫 About Me:
-По образованию я журналист. Но в последние несколько месяцев я решила полностью сменить свою сферу деятельности и теперь активно учусь на QA Engineer.
-
-
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
