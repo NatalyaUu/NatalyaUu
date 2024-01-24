@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning QA Automation<br>🎲 Fun fact: I like books, yoga, bicycle and quality items.<br><br>I'm a journalist. Not long ago I realized that at this stage of my life I want to completely change my field of activity. In terms of soft skills, journalism is similar to testing, so I decided to try it. I was not mistaken. Captivated. For me, testing has become a part of the quality of my life that I can change. For myself. For people. For peace. Doing well from the very beginning is my principle. Thoughtfulness, responsibility, personal interest, desire for self-development are my helpers.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning QA Automation<br>🎲 Fun fact: I like books, yoga, bicycle and quality items.<br><br>   I'm a journalist. Not long ago I realized that at this stage of my life I want to completely change my field of activity. <br>   In terms of soft skills, journalism is similar to testing, so I decided to try it. I was not mistaken. Captivated. <br>   For me, testing has become a part of the quality of my life that I can change. For myself. For people. For the world. <br>   Doing well from the very beginning is my principle. Thoughtfulness, responsibility, personal interest,<br> desire for self-development are my helpers.</p>
 
 ###
 
@@ -35,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+###
+
+<p align="left">My Postman collection https://www.postman.com/nataliauu/workspace/for-check/collection/30914153-b0e48fe0-874a-4b05-a4b8-2049a936d047</p>
 
 ###
 
