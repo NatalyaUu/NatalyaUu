@@ -38,8 +38,6 @@
 
 ###
 
-<p align="left">My Postman collection https://www.postman.com/nataliauu/workspace/for-check/collection/30914153-b0e48fe0-874a-4b05-a4b8-2049a936d047</p>
-
 ###
 
 <div align="left">
